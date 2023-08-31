@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">lifecycle</string>
+    <array name="dropdown_port">
+        <item>Port mode</item>
+        <item>Yeet</item>
+        <item>Oof</item>
+        <item>Kobe</item>
+        <item>Deez Nutz</item>
+    </array>
+    <array name="dropdown_land">
+        <item>Land mode</item>
+        <item>Lamborghini</item>
+        <item>Koeningsegg</item>
+        <item>Ferrari</item>
+        <item>Bugatti</item>
+    </array>
 </resources>
